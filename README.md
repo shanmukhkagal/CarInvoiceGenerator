@@ -1,3 +1,3 @@
 # CarInvoiceGenerator
-#calculate multiple rides fare
+#EnHanced invoice
 
